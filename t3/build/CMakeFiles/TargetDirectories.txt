@@ -1,0 +1,14 @@
+/home/hd/code/MyLearning/Cmake_Learning/t3/build/CMakeFiles/install/strip.dir
+/home/hd/code/MyLearning/Cmake_Learning/t3/build/CMakeFiles/install.dir
+/home/hd/code/MyLearning/Cmake_Learning/t3/build/CMakeFiles/install/local.dir
+/home/hd/code/MyLearning/Cmake_Learning/t3/build/CMakeFiles/list_install_components.dir
+/home/hd/code/MyLearning/Cmake_Learning/t3/build/CMakeFiles/edit_cache.dir
+/home/hd/code/MyLearning/Cmake_Learning/t3/build/CMakeFiles/rebuild_cache.dir
+/home/hd/code/MyLearning/Cmake_Learning/t3/build/lib/CMakeFiles/install/strip.dir
+/home/hd/code/MyLearning/Cmake_Learning/t3/build/lib/CMakeFiles/install/local.dir
+/home/hd/code/MyLearning/Cmake_Learning/t3/build/lib/CMakeFiles/hello_static.dir
+/home/hd/code/MyLearning/Cmake_Learning/t3/build/lib/CMakeFiles/hello.dir
+/home/hd/code/MyLearning/Cmake_Learning/t3/build/lib/CMakeFiles/edit_cache.dir
+/home/hd/code/MyLearning/Cmake_Learning/t3/build/lib/CMakeFiles/rebuild_cache.dir
+/home/hd/code/MyLearning/Cmake_Learning/t3/build/lib/CMakeFiles/list_install_components.dir
+/home/hd/code/MyLearning/Cmake_Learning/t3/build/lib/CMakeFiles/install.dir

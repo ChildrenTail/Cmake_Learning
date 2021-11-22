@@ -1,0 +1,6 @@
+
+INCLUDE_DIRECTORIES(/usr/include/hello)
+SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
+ADD_EXECUTABLE(main main.cpp)
+
+TARGET_LINK_LIBRARIES(main libhello.a)

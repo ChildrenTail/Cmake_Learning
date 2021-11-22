@@ -1,0 +1,5 @@
+/home/hd/code/MyLearning/Cmake_Learning/t4/build/CMakeFiles/rebuild_cache.dir
+/home/hd/code/MyLearning/Cmake_Learning/t4/build/CMakeFiles/edit_cache.dir
+/home/hd/code/MyLearning/Cmake_Learning/t4/build/src/CMakeFiles/rebuild_cache.dir
+/home/hd/code/MyLearning/Cmake_Learning/t4/build/src/CMakeFiles/main.dir
+/home/hd/code/MyLearning/Cmake_Learning/t4/build/src/CMakeFiles/edit_cache.dir
